@@ -1,0 +1,4 @@
+- src: https://github.com/Orenjiiro-00/Ansible_training_docker_role.git
+- src: Orenjiiro-00.Ansible_training_docker_role
+- src: Orenjiiro-00.Ansible_training_wordpress_role
+- src: https://github.com/Orenjiiro-00/Ansible_training_wordpress_role.git
